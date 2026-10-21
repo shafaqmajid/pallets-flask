@@ -4,6 +4,11 @@ Aquest fitxer conté el recull de conceptes tècnics clau utilitzats durant el d
 
 ---
 
+### Fork
+- Anglès: Fork
+- Definició: còpia d'un repositori que es crea al nostre compte de GitHub i sobre la qual sí que tenim permís d'escriptura.
+- Exemple: vam fer un fork de pallets/flask per poder-hi pujar canvis.
+  
 ### Backlog
 - Anglès: Product Backlog
 - Definició: Llista ordenada amb totes les tasques i feines pendents que s'han de fer en un projecte.
@@ -33,11 +38,6 @@ Aquest fitxer conté el recull de conceptes tècnics clau utilitzats durant el d
 - Anglès: Daily Scrum / Daily Stand-up
 - Definició: Reunió diària molt curta de l'equip per dir què has fet, què faràs i si estàs encallat en alguna cosa.
 - Exemple: A la Daily d'aquest matí hem comentat que teníem problemes de connexió amb el servidor.
-
-### Fork
-- Anglès: Fork
-- Definició: Còpia d'un projecte d'una altra persona que et guardes al teu compte de GitHub per modificar-lo lliurement.
-- Exemple: Vam afegir un exemple de fork agafant el projecte del professor per poder començar a treballar.
 
 ### Issue
 - Anglès: Issue
