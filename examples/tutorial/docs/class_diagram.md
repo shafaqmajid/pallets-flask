@@ -4,7 +4,7 @@
 Este diagrama muestra las clases principales del blog, sus atributos y la relación entre usuarios y publicaciones.
 
 ```mermaid
-[classDiagram
+classDiagram
 
 class user {
     +INTEGER id
